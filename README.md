@@ -13,3 +13,5 @@ It allows users to add income and expense transactions, view their balance in re
 - HTML5
 - CSS3
 - Vanilla JavaScript
+
+<img src="Drawing App/pictures/DrawingApp.png" alt="Drawing App preview" width="1000">
