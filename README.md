@@ -14,4 +14,4 @@ It allows users to add income and expense transactions, view their balance in re
 - CSS3
 - Vanilla JavaScript
 
-<img src="Expense Tracker/pictures/ExpenseTracker.png" alt="Expense Tracker preview" width="1000">
+<img src="Expense Tracker/pictures/ExpenseTracker.png" alt="Expense Tracker preview" width="500">
